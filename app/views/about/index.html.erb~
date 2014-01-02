@@ -1,4 +1,10 @@
-<h2>Hello World</h2>
+<h2>about</h2>
 <p>
   The time is now: <%= Time.now %>
 </p>
+
+<p>Lorem ipsum dolor sit amet, ea quaestio tractatos maluisset mel. Consul corrumpit disputando vel at, et qui laudem principes. Brute etiam oratio te sea. Essent imperdiet constituam ne duo, mei mazim copiosae temporibus ex, sit suas ullamcorper ea. Legimus inermis nec eu. Deserunt mnesarchum cu cum.
+
+Autem tibique volutpat at sea. In verear tibique assentior eam, sumo nulla ponderum est ut, nec ei aliquid noluisse. Eu munere quaeque quaerendum usu, id has quaeque sententiae. Ne vel aliquid facilisi, mei ei ullum habemus luptatum. Vix vero possim persius at, at utamur nominavi erroribus vis. Habemus consectetuer te per.
+
+Vix iriure recusabo imperdiet no, tation nostrum at vim. Ad labitur minimum sed, illud molestiae an vis. Ignota fabulas impedit eu vel, an alii praesent cum. Wisi labitur ius ne, te sea gubergren prodesset argumentum, consul molestie id mei. Qui novum dolore in, fabellas persecuti efficiendi cu ius, phaedrum pericula democritum ius ut. Quas solum vim in, mei ad cibo reprehendunt.</p>
